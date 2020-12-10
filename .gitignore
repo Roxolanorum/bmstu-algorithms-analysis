@@ -1,0 +1,10 @@
+*.tex
+*.gz
+*.graphml
+.idea/*
+__pycache__/*
+pics/*
+out/*
+*.gradle
+*.iml
+*.xml
